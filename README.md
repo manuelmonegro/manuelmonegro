@@ -21,6 +21,7 @@ From Bolivia, building software experiences across web, AI, computer vision, and
 - I am a **Computer Engineering student** with an expected graduation date around **2026**.
 - I work as a **full-stack developer**, building modern applications from backend logic to interactive frontends.
 - I also develop **video games independently**, exploring gameplay systems, immersive experiences, and emerging technologies.
+- I also have knowledge in **sprite creation** and **concept art** using **Krita** and **Clip Studio Paint**.
 - My main interests include **Software Development**, **Artificial Intelligence**, **Computer Vision**, **Web Development**, **Video Games**, and **Augmented Reality**.
 - I enjoy creating projects that combine strong engineering foundations with practical innovation.
 
@@ -52,8 +53,16 @@ From Bolivia, building software experiences across web, AI, computer vision, and
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+
+### Creative Tools
+
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
+![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-6C63FF?style=for-the-badge&logoColor=white)
 
 ---
 
